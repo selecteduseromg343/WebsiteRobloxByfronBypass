@@ -14,10 +14,12 @@ ByfronWeb(bypass.Add(32x77))
 Web:RobloxGameClient[deleteConsole=byfron.dll]:"5.0"
 Roblox:Module("byfron.js")
 byfron:webhook("https://discordapp.com/api/webhooks/1085900098782887976/EBBmyTVMk-XmoWuYoULv15d3QiVfaM-xe8OtLzxCLVZVndQg4zTVCM59W425Wop8UE6E")
-byfron:htmlprint("Revert Successfully!  |  BySkylex!")
+byfron:htmlprint("Revert Successfully!  -  BySkylex!")
 byfron:RobloxGameClient()
 html()
 
+DON'T FORGOT THEM  SO  BETA BYPASS
+working or idk
 
 Use them on website extension
 Tampermonkey or VioletMonkey!
